@@ -1,3 +1,3 @@
 # CSI4142_Assignments
 
-This is a repo for the datasets used in assignment 1 for CSI4142.
+This is a repo for the datasets used in assignments for CSI4142.
