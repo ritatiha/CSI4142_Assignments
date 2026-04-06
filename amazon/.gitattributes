@@ -1,3 +1,2 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
 amazon/Clothing-Reviews.csv filter=lfs diff=lfs merge=lfs -text
 amazon/Amazon-clothing-info.csv filter=lfs diff=lfs merge=lfs -text
